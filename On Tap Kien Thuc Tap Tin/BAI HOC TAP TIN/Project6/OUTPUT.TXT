@@ -1,0 +1,4 @@
+Tong: 5/4
+Hieu: -1/4
+Tich: 3/8
+Thuong: 2/3

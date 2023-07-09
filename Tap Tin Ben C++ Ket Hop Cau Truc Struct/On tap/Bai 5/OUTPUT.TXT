@@ -1,0 +1,40 @@
+
+Ho ten: Nguyen Viet Nam Son
+So dt: 01267666702
+Sinh ngay 31 thang 10 nam 1994
+Diem toan: 9.5
+Diem ly: 10
+Diem hoa: 9
+Diem trung binh: 9.5
+
+-------------------------------------------
+
+Ho ten: Co May
+So dt: 0169696969
+Sinh ngay 6 thang 9 nam 1996
+Diem toan: 6.9
+Diem ly: 9.6
+Diem hoa: 9
+Diem trung binh: 8.5
+
+-------------------------------------------
+
+Ho ten: Satan
+So dt: 0121213569
+Sinh ngay 2 thang 1 nam 1969
+Diem toan: 3.7
+Diem ly: 8.5
+Diem hoa: 7.2
+Diem trung binh: 6.46667
+
+-------------------------------------------
+
+Ho ten: Hoang Duy
+So dt: 0949771945
+Sinh ngay 16 thang 11 nam 1994
+Diem toan: 4.5
+Diem ly: 5.5
+Diem hoa: 6.5
+Diem trung binh: 5.5
+
+-------------------------------------------
